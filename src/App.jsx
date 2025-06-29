@@ -1,11 +1,13 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
+import Separator from "./components/Separator"
 
 function App() {
   return (
     <>
       <Navbar />
       <Hero />
+      <Separator />
     </>
     
   )
